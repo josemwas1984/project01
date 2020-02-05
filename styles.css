@@ -2,17 +2,15 @@
 background-image: url("https://bit.ly/3bd2mp1");
 background-repeat: no-repeat;
 background-size: cover;
-}    
-
-*{
     text-align: center;
+    border-radius: 5px;
+    border-color: black;
 }
 h1 {
-    color:green;
+    color:brown;
    font-size: xx-large;
    font-family: 'Open Sans', sans-serif;
    background-color: greenyellow;
-
 }
 p{
 font-size: x-large;
@@ -34,11 +32,12 @@ div {
     float:center;
     font-size: x-large;
     justify-content: space-evenly;
+    color:brown;
   }
   a {
       font-size: x-large;
       color:greenyellow;
   }
-  div {
-      background-color:grey;
-  }
+body{
+    color:brown;
+}
