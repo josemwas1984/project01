@@ -2,42 +2,51 @@
 background-image: url("https://bit.ly/3bd2mp1");
 background-repeat: no-repeat;
 background-size: cover;
+}
+#Container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11px;
+    display: inline;
+}
+#Home {
+    text-align:center;
+    float:left;
+    list-style-type: none;
+    display: inline;
+}
+#About {
     text-align: center;
-    border-radius: 5px;
-    border-color: black;
+    float: left;
+    display: inline;
+}
+#Hobbies {
+    text-align: center;
+    float:left;
+    list-style-type: none;
+    display: inline;
+}
+#Hobbies li {
+    list-style-type: none;
+    float:left;
+    display:block;
+    width:150px;
+    height:60px;
+    text-align: center;
+    line-height: 55px;
 }
 h1 {
     color:brown;
-   font-size: xx-large;
-   font-family: 'Open Sans', sans-serif;
+   font-size: xx-large; 
+   font-style: italic;
    background-color: greenyellow;
-}
-p{
-font-size: x-large;
 }
 li{
     font-size: x-large;
     font-style: italic;
+    list-style-type: none;
 }
 p{
     font-size: x-large;
     text-align: center;
-    text-emphasis: none;
-}
-div {
-    width:200px;
-    border: 5px solid green;
-    padding: 50px;
-    margin: 20px;
-    float:center;
-    font-size: x-large;
-    justify-content: space-evenly;
-    color:brown;
-  }
-  a {
-      font-size: x-large;
-      color:greenyellow;
-  }
-body{
-    color:brown;
 }
