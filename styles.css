@@ -6,23 +6,22 @@ background-size: cover;
 #Container {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 11px;
     display: inline;
 }
 #Home {
     text-align:center;
-    float:left;
     list-style-type: none;
     display: inline;
 }
 #About {
     text-align: center;
-    float: left;
-    display: inline;
+    display: block;
+    width:800px;
+    height: auto;
 }
 #Hobbies {
     text-align: center;
-    float:top;
+    float: none;
  list-style-type: none;
     display: inline;
 }
