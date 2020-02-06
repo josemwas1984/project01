@@ -22,8 +22,8 @@ background-size: cover;
 }
 #Hobbies {
     text-align: center;
-    float:left;
-    list-style-type: none;
+    float:top;
+ list-style-type: none;
     display: inline;
 }
 #Hobbies li {
@@ -49,4 +49,7 @@ li{
 p{
     font-size: x-large;
     text-align: center;
+}
+#Footer {
+    image-rendering: inherit;
 }
