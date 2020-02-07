@@ -1,5 +1,5 @@
- html {
-    height:100%;
+html {
+    height:%;
     width:100%;
 }
 .Home {
@@ -17,19 +17,11 @@
 .About {
     background-image: url("https://bit.ly/39gT9du");
     background-size: cover;
-    font-size: x-large;
-    list-style: none;
+    background-repeat: no-repeat;
     text-align: center;
-    border-top: 10px;
-    border-left: 10px;
-    border-bottom: 50px;
-    border-right: 10px;
-    padding-top: 0px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    border-color: green;
-    padding:0%;
+    font-size: xx-large;
+    font-style: italic;
+    color:red;
 }
 .About li {
     list-style-type: none;
