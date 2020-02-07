@@ -1,33 +1,37 @@
-*{
-background-image: url("https://bit.ly/3bd2mp1");
-background-repeat: no-repeat;
-background-size: cover;
-text-align: center;
-}
-#Home {
-    text-align:center;
-    font-size: xx-large;
-    font-style: italic;
-    border: orangered;
-}
-#About {
+.Home{
+    background-image: url("https://bit.ly/3884Ra7");
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     font-size: xx-large;
     font-style: italic;
 }
-#About li {
+.About {
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    list-style: none;
+    background-image: url("https://bit.ly/2v8hQu7");
+    background-size: cover;
+}
+.About li {
     list-style-type: none;
 }
-#Hobbies {
+.Hobbies {
+    background-image: url("https://bit.ly/2S9kQzr");
+    background-size: cover;
+    font-size: x-large;
+    list-style: none;
     text-align: center;
- list-style-type: none;
-    font-size: xx-large;
-    font-style: italic;
 }
-#Hobbies li {
+.Hobbies li {
     text-align: center;
     list-style: none;
     font-size: x-large;
+}
+#Hobbies {
+    font-size: x-large;
+    list-style: none;
 }
 h1 {
     color:brown;
