@@ -13,6 +13,7 @@ html {
 }
 #Home {
     color:red;
+    font-size: x-large;
 }
 .About {
     background-image: url("https://bit.ly/39gT9du");
@@ -25,6 +26,9 @@ html {
 }
 .About li {
     list-style-type: none;
+}
+.About p {
+    color:black;
 }
 .Hobbies {
     background-image: url("https://bit.ly/2S9kQzr");
