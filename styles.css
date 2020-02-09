@@ -1,6 +1,7 @@
-html {
-    height:100%;
-    width:100%;
+#page {
+    border-width: 0.5em;
+    border-color: lawngreen;
+    border-style: groove;
 }
 .Home {
     background-image: url("https://bit.ly/3884Ra7");
