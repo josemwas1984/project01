@@ -9,26 +9,34 @@ html {
     text-align: center;
     font-size: xx-large;
     font-style: italic;
-    color:red;
-}
-#Home {
-    color:red;
-    font-size: x-large;
+    border-width: 0.5em;
+    border-color: blueviolet;
+    border-style: groove;
+    font-weight: 0.6em;
 }
 .About {
-    background-image: url("https://bit.ly/39gT9du");
+    background-image: url("https://bit.ly/2OFo1ga");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     font-size: xx-large;
     font-style: italic;
     color:red;
+    border-style: groove;
+    border-color: blueviolet;
+    border-width: 0.5em;
 }
 .About li {
     list-style-type: none;
+    color:green;
+    font-style: italic;
+    font-weight: 600;
+    background-color:yellow;
 }
 .About p {
-    color:black;
+    color:white;
+    font-style: italic;
+    font-weight: 500;
 }
 .Hobbies {
     background-image: url("https://bit.ly/2S9kQzr");
@@ -36,32 +44,35 @@ html {
     font-size: x-large;
     list-style: none;
     text-align: center;
+    border-width: 0.5em;
+    border-style: groove;
+    border-color: coral;
 }
 .Home li {
-    color: chartreuse;
     font-size:xx-large;
     list-style-type: none;
+    color: chartreuse;
 }
 .Hobbies li {
     text-align: center;
     list-style: none;
     font-size: x-large;
-}
-#Hobbies {
-    font-size: x-large;
-    list-style: none;
-    color:yellow;
+    color:aqua;
+    font-weight: 600;
+    text-shadow: gray;
 }
 h1 {
     color:brown;
-   font-size: xx-large; 
+   font-size: 1.5em; 
    font-style: italic;
    background-color: greenyellow;
 }
 .Home p {
-    color:crimson;
-    font-size: x-large;
+    color: orangered;
+    font-size: xx-large;
     text-align: center;
+    font-weight: 0.5em;
+    background-color: khaki;
 }
 h2{
     color:whitesmoke;
@@ -75,6 +86,12 @@ p {
     font-size: x-large;
     text-align: center;
     color:blue;
+}
+#menu {
+    font-size: xx-large;
+    list-style: none;
+    background-color: darkgrey;
+    color: chartreuse;
 }
 footer {
     padding: 10px;
