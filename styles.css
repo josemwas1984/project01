@@ -93,6 +93,8 @@ p {
     list-style: none;
     background-color: darkgrey;
     color: chartreuse;
+    display: flex;
+    flex-flow: column;
 }
 footer {
     padding: 10px;
