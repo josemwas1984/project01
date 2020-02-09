@@ -31,7 +31,7 @@ I used HTML to build the website and Styles.CSS to style up the website.
 ## Known Bugs
 There's no user sign up because the building languages were Html and Css.
 ## Get into the website Here:- 
-<a src="https://josemwas1984.github.io/project01/"></a>
+<https://josemwas1984.github.io/project01/
 Hope to have it soon.
 ## Support and contact details
 If you have any issues,kindly contact me on my email <jose.maina79@gmail.com
