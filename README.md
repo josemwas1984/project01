@@ -30,9 +30,9 @@ You don't need any supportive dependencies to run the website
 I used HTML to build the website and Styles.CSS to style up the website.
 ## Known Bugs
 There's no user sign up because the building languages were Html and Css.
+Hope to have it soon.
 ## Get into the website Here:- 
 <https://josemwas1984.github.io/project01/
-Hope to have it soon.
 ## Support and contact details
 If you have any issues,kindly contact me on my email <jose.maina79@gmail.com
 ### License
